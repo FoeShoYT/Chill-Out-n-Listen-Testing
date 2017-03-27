@@ -3720,7 +3720,7 @@
         }
     }; 
     
-    bot.commands.baconCommand = {
+    bot.commands.rcsCommand = {
           command: 'rcs',
           rank: 'user',
           type: 'exact',
